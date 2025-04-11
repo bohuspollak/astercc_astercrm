@@ -1,0 +1,15 @@
+asteriskver=1.8.32.3
+libpriver=1.4.12
+asterccver=4.1
+dahdiver=2.9.0-rc1+2.9.0-rc1
+lamever=3.99.5
+mpg123ver=1.13.4
+nginxver=1.15.2
+iusver5=1.0-10
+epelver5=5-4
+iusver6=1.0-15
+epelver6=6-5
+phpver=74
+#phpver=56u
+mariadbver=104
+ioncubever=7.4
